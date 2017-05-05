@@ -1,16 +1,42 @@
 <center>![](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png)</center> 
 
-Update: March 30, 2017
+Update: May 5, 2017
 
-# ICS Development Workshop Prerequisites
+# Integrating with NetSuite Using ICS Workshop Prerequisites
 
-## Required 3rd Party Testing Tools
+## 3rd Party Testing Tools
 
-### Install SoapUI
+### Installing Postman
 
-We will use SoapUI to test an ICS Soap Web Service integration.
+We will use Postman to test an ICS REST Web Service integration.
 
-If you don't already have SoapUI installed on your workstation, you'll need to install it.
+If you don't already have Postman installed on your workstation, you'll need to install it.
+
+To install Postman for testing the ICS integration follow these instructions:
+
+- Download the Postman OpenSource application for your desktop/laptop from the URL: <https://www.getpostman.com/>
+
+![](images/studentguide/PostMan_01.png)
+
+- Save the download file to a temporary directory on your workstation.
+
+![](images/studentguide/Postman_02.png)
+
+- Run the installer from the temporary directory
+
+![](images/studentguide/Postman_03.png)
+
+- Postman will launch after installation is complete.
+
+![](images/studentguide/Postman_04.png)
+
+- Full instructions for installing Postman on your workstation are provided here: <https://www.getpostman.com/docs/install_native> 
+
+### Installing SoapUI (Optional)
+
+We will optionally use SoapUI to test an ICS REST Web Service integration.
+
+If you don't already have SoapUI installed on your workstation, you'll need to install it if you want to do the optional testing section using SoapUI.
 
 To install SoapUI for testing the ICS integration follow these instructions:
 
