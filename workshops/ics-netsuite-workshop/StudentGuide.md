@@ -6,7 +6,7 @@ Update: May 5, 2017
 
 ## 3rd Party Testing Tools
 
-### Installing Postman
+### Install Postman
 
 We will use Postman to test an ICS REST Web Service integration.
 
@@ -32,7 +32,7 @@ To install Postman for testing the ICS integration follow these instructions:
 
 - Full instructions for installing Postman on your workstation are provided here: <https://www.getpostman.com/docs/install_native> 
 
-### Installing SoapUI (Optional)
+### Install SoapUI (Optional)
 
 We will optionally use SoapUI to test an ICS REST Web Service integration.
 
