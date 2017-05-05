@@ -32,28 +32,6 @@ To install Postman for testing the ICS integration follow these instructions:
 
 - Full instructions for installing Postman on your workstation are provided here: <https://www.getpostman.com/docs/install_native> 
 
-### Install SoapUI (Optional)
-
-We will optionally use SoapUI to test an ICS REST Web Service integration.
-
-If you don't already have SoapUI installed on your workstation, you'll need to install it if you want to do the optional testing section using SoapUI.
-
-To install SoapUI for testing the ICS integration follow these instructions:
-
-- Download the SoapUI OpenSource application for your desktop/laptop from the URL: <https://www.soapui.org/downloads/soapui.html>
-
-![](images/studentguide/image001.png)
-
-- Save the download file to a temporary directory on your workstation.
-
-![](images/studentguide/image002.png)
-
-- Run the installer from the temporary directory
-
-![](images/studentguide/image003.png)
-
-- Install SoapUI on your workstation following the directions provided by SmartBear here: <https://www.soapui.org/getting-started/installing-soapui.html> 
-
 ---
 
 ## Supported Browsers
